@@ -48,9 +48,9 @@ Expected outcome
 * Design user interface for any app or website
 
 
-3.1 Enroll on UI design courses
+2.1 Enroll on UI design courses
 
-3.1 Start daily UI Challenges
+2.1 Start daily UI Challenges
 - Subscribe to the Daily UI Design Challenge website to get an email every day with a new UI design challenge.
 
 # Fist course: UI / UX for Beginners
@@ -76,20 +76,20 @@ Figma is a web-based graphics editing and user interface design app that works o
 
 Expected outcomes:
 
-1. Use Figma proficiently as my UI design tool
-2. Identify good and bad design patterns
-3. Ask for design feedback on the public platforms
+- Use Figma proficiently as my UI design tool
+- Identify good and bad design patterns
+- Ask for design feedback on the public platforms
    
-2.1 Learn Figma designs from YouTube tutorials
+3.1 Learn Figma designs from YouTube tutorials
 Start with Figma's fundamental tools and prototyping, then go on to Components, Variants, and Auto Layout. Make use of Figma's plugins as well.
 
-2.2 Copy good UI designs
+3.2 Copy good UI designs
 Replicate some well-designed app and web screens with Figma. Try to understand the design patterns and their impact on users.
 This step is crucial for developing my understanding of typography, color, and visual compositions.
 * Screens of different websites (Landing page, Signup flow, Dashboard, Analytics, Blog, Ecom, Purchase flow etc)
 * Screens of different mobile apps (Signup, Ecom, Music, Dashboard, etc).
   
-2.3 Join design communities
+3.3 Join design communities
 
 # DESIGNS
 
