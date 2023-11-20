@@ -72,9 +72,7 @@ This step is crucial for developing my understanding of typography, color, and v
   
 3.3 Join design communities
 
-
 # COURSES
-
 # Fist course: UI / UX for Beginners
 
 ## Skills covered
