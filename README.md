@@ -78,8 +78,7 @@ This step is crucial for developing my understanding of typography, color, and v
 ## Skills covered
 * Differentiate between UI and UX
 * Wireframe and Prototyping
-![ux foundation](https://github.com/MichelleGoba/UX-UI-Design-Roadmap/assets/127187021/82d8a644-96f3-4fdf-8fcb-480a98cfd150)
-
+![ui_ux for beginners](https://github.com/MichelleGoba/UX-UI-Design-Roadmap/assets/127187021/60db7da7-3421-45b6-8f7e-61970a0b51d1)
 
 # Second course: Get Started with Figma
 ## Course details
