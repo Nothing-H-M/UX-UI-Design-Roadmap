@@ -86,6 +86,11 @@ This step is crucial for developing my understanding of typography, color, and v
 2.3 Join design communities
 
 ## Designs
+## Design 1: Social media Log-in screen
+## Details
+
+
+
 
 
 
