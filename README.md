@@ -3,14 +3,14 @@
 ![uiux designer](https://github.com/MichelleGoba/UX-UI-Design-Roadmap/assets/127187021/b1095f2a-7c7e-407b-9690-2f33f76005bc)
 
 > Roadmap to becoming a UI/UX Designer
-## 📖 Table Of Contents
+# 📖 Table Of Contents
 
  * [Distinguishing Between UI and UX](#distinguishing-between-ui-and-ux)
  * [User Interface Designer Roadmap](#-user-interface-designer-roadmap)
  * [User Experience Researcher Roadmap](#-user-experience-researcher-roadmap)
  * [To Do / Milestones ](#-to-do-/-milestones)
 
-## Distinguishing Between UI and UX
+# Distinguishing Between UI and UX
 Often times, people use the terms ```UI``` and ```UX``` interchangeably. Despite some shared elements, there are notable differences. Here is a simple definition:
 
 - When people say __UI__, they usually mean everything related to graphic design, colors, fonts, backgrounds, buttons, stock photos, icons etc.
@@ -26,7 +26,7 @@ User Experience (UX) design is a multidisciplinary field that focuses on creatin
 
 ![UX Researcher Roadmap](http://i.imgur.com/duKBzNL.png)
 
-## Milestones
+# Milestones
 
 > Milestone 1: RESEARCH
 
@@ -47,7 +47,7 @@ Design user interface for any app or website
 * 3.1 Start daily UI Challenges
 Subscribe to the Daily UI Design Challenge website to get an email every day with a new UI design challenge.
 
-## Fist course: UI / UX for Beginners
+# Fist course: UI / UX for Beginners
 
 ## Skills covered
 * Differentiate between UI and UX
@@ -56,7 +56,7 @@ Subscribe to the Daily UI Design Challenge website to get an email every day wit
 ![ui_ux for beginners](https://github.com/MichelleGoba/UX-UI-Design-Roadmap/assets/127187021/eb43d5c5-1de1-4cb0-82d9-4ca90c30e4cc)
 
 
-## Second course: Get Started with Figma
+# Second course: Get Started with Figma
 ## Course details
 Figma is a web-based graphics editing and user interface design app that works on your browser.  What does that really mean?  You can access your projects from multiple devices without installing software.  You and others can work on the same file in real-time taking the project from brainstorming to prototypes.  You can use Figma to design briefs, create storyboards, reduce complexity on web sites and even design your CV or resume all while collaborating with others in real time! By the end of this project, you will go through the steps to learn about the application to develop a web page or homepage for your own app.
 ## Skills covered
@@ -85,10 +85,10 @@ This step is crucial for developing my understanding of typography, color, and v
   
 2.3 Join design communities
 
-## DESIGNS
+# DESIGNS
 
 ## Design 1: Social media Log-in screen
-# Details
+## Details
 
 This design represents a mobile app's social media login screen, enabling users to register or log in to their respective social media accounts.
 Figma Prototype link: https://www.figma.com/proto/Y7NrPPZc99hNhFvvsIHDri/Log-in-page?type=design&node-id=5-78&t=n7d3eI82sLykuCSL-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=5%3A78
