@@ -33,6 +33,7 @@ User Experience (UX) design is a multidisciplinary field that focuses on creatin
 
 > Milestone 1: RESEARCH
 
+To do:
 1.1 Read UX/Ui articles
 
 1.2 Watch YouTube videos
@@ -45,10 +46,11 @@ User Experience (UX) design is a multidisciplinary field that focuses on creatin
 
 Expected outcome
 * Design user interface for any app or website
-   
-* 3.1 Enroll on UI design courses
-* 3.1 Start daily UI Challenges
-Subscribe to the Daily UI Design Challenge website to get an email every day with a new UI design challenge.
+
+To do: 
+3.1 Enroll on UI design courses
+3.1 Start daily UI Challenges
+* Subscribe to the Daily UI Design Challenge website to get an email every day with a new UI design challenge.
 
 # Fist course: UI / UX for Beginners
 
