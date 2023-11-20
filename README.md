@@ -25,7 +25,7 @@ User Experience (UX) design is a multidisciplinary field that focuses on creatin
 
 ## Milestones
 
-Milestone 1: RESEARCH
+> Milestone 1: RESEARCH
 
 1.1 Read UX/Ui articles
 
@@ -35,7 +35,7 @@ Watch YouTube tutorials that will help me understand the basics of UI and UX.
 1.3 Explore Dribble and Figma community
 Browse the UI design shots, and add 5-10 of the greatest UI shots to my  Dribbble favorites list every day. This will help me practise my design sense
 
-Milestone 2: LEARN AND PRACTISE
+> Milestone 2: LEARN AND PRACTISE
 
 Expected outcomes:
 
@@ -54,7 +54,7 @@ This step is crucial for developing my understanding of typography, color, and v
   
 2.3 Join design communities
 
-Milestone 3: LEARN UI DESIGN
+> Milestone 3: LEARN UI DESIGN
 
 Expected outcome
 Design user interface for any app or website
