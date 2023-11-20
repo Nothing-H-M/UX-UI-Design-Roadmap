@@ -67,14 +67,12 @@ Design user interface for any app or website
 Subscribe to the Daily UI Design Challenge website to get an email every day with a new UI design challenge.
 
 ## Fist course: UI / UX for Beginners
-## Course details
-
 
 ## Skills covered
+* Differentiate between UI and UX
+* Wireframe and Prototyping
 
-
-
-
+![ui_ux for beginners](https://github.com/MichelleGoba/UX-UI-Design-Roadmap/assets/127187021/eb43d5c5-1de1-4cb0-82d9-4ca90c30e4cc)
 
 
 ## Second course: Get Started with Figma
