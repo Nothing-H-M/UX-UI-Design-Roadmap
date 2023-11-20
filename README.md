@@ -6,7 +6,8 @@
  * [User Interface Designer Roadmap](#-user-interface-designer-roadmap)
  * [User Experience Researcher Roadmap](#-user-experience-researcher-roadmap)
  * [To Do / Milestones ](#-to-do-/-milestones)
-> ## Distinguishing Between UI and UX
+
+## Distinguishing Between UI and UX
 Often times, people use the terms ```UI``` and ```UX``` interchangeably. Despite some shared elements, there are notable differences. Here is a simple definition:
 
 - When people say __UI__, they usually mean everything related to graphic design, colors, fonts, backgrounds, buttons, stock photos, icons etc.
