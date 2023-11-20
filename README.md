@@ -73,14 +73,14 @@ This step is crucial for developing my understanding of typography, color, and v
 3.3 Join design communities
 
 # COURSES
-# Fist course: UI / UX for Beginners
+# Course: UI / UX for Beginners
 
 ## Skills covered
 * Differentiate between UI and UX
 * Wireframe and Prototyping
 ![ui_ux for beginners](https://github.com/MichelleGoba/UX-UI-Design-Roadmap/assets/127187021/60db7da7-3421-45b6-8f7e-61970a0b51d1)
 
-# Second course: Get Started with Figma
+# Course: Get Started with Figma
 ## Course details
 Figma is a web-based graphics editing and user interface design app that works on your browser.  What does that really mean?  You can access your projects from multiple devices without installing software.  You and others can work on the same file in real-time taking the project from brainstorming to prototypes.  You can use Figma to design briefs, create storyboards, reduce complexity on web sites and even design your CV or resume all while collaborating with others in real time! By the end of this project, you will go through the steps to learn about the application to develop a web page or homepage for your own app.
 ## Skills covered
@@ -89,7 +89,7 @@ Figma is a web-based graphics editing and user interface design app that works o
 * Add pages to the frame in Figma.
 ![Getting started with Figma](https://github.com/MichelleGoba/UX-UI-Design-Roadmap/assets/127187021/a99a4af1-92af-4af0-96ff-88e11274ae16)
 
-# Second course: User experience research
+# Course: User experience research
 ## Course details
 UX research helps a business through saving development or process costs, increasing customer happiness and loyalty, and uncovering opportunities to earn more. In this course, Amanda Stockwell shows you practical techniques to improve your UX research to better inform fast-moving projects. Get an overview of different types of research methodologies, usability tests, and conducting interviews. Review card sorts, eye tracking, multivariate testing, and desirability testing. Go over the best uses of expert reviews, surveys, diary studies, participatory design workshops, and personas. Learn how to choose the right research method for your goals, then dive into environmental considerations, such as in-house vs. external, agile vs. waterfall, and more. Find out how to plan and execute effective research, and then explore the best ways to analyze and present your findings.
 
@@ -99,6 +99,13 @@ UX research helps a business through saving development or process costs, increa
 
 ![ux foundation](https://github.com/MichelleGoba/UX-UI-Design-Roadmap/assets/127187021/82d8a644-96f3-4fdf-8fcb-480a98cfd150)
 
+# Course: User Experience for Web Design
+## Course details
+Whether you're designing anything from a personal blog site or portfolio to an ecommerce website, always keep in mind: A good user experience will make users stay on your site, while a bad one will make them look elsewhere. In this course, Chris Nodder teaches you how to apply some simple interaction design principles to your site to make it behave in the way that users expect and enjoy. Chris covers the key things people want from web sites, how they search for information, how they read online, and how to structure your content to take advantage of this. He shows you how to use graphics to help rather than hinder visitors, how to integrate video, audio, and other media, and when to consider interactive rather than static content. He also discusses the importance of seeing your site’s home page, forms, product pages and content through users’ eyes in order to build a site that better meets their needs.
+
+## Skills covered
+* User Experience
+* Web design
 
 
 # DESIGNS
