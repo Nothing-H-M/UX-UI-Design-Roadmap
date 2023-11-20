@@ -1,4 +1,4 @@
-# UX-UI-Design-Roadmap
+# UI-UX-Design-Roadmap
 
 ![uiux designer](https://github.com/MichelleGoba/UX-UI-Design-Roadmap/assets/127187021/b1095f2a-7c7e-407b-9690-2f33f76005bc)
 
