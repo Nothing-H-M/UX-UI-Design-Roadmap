@@ -27,7 +27,7 @@ The tools of the trade for UI design are mainly [Sketch](https://www.sketchapp.c
 
 User Experience (UX) design is a multidisciplinary field that focuses on creating products, systems, or services that are user-centric and provide a positive and meaningful experience for the users. The goal of UX design is to enhance user satisfaction and usability by improving the overall interaction between the user and the product. Here's a general roadmap for UX design:
 
-![UX Researcher Roadmap](http://i.imgur.com/duKBzNL.png)
+![687474703a2f2f692e696d6775722e636f6d2f64754b427a4e4c2e706e67](https://github.com/MichelleGoba/UX-UI-Design-Roadmap/assets/127187021/72194fc1-73ed-4cd6-82a3-1593c6c1732c)
 
 # Milestones
 
