@@ -17,11 +17,14 @@ Simple definition:
 - When people say __UX__, they usually mean tasks related to psychology, human decision making, user research, personas, user stories, workflows, A/B testing, statistical evaluation and so on.
 
 ## 🎨 User Interface Designer Roadmap
+
+User Interface (UI) design is the process of creating the visual elements and interactive features of a digital product, such as a website, mobile app, or software application. The primary goal of UI design is to enhance the user's experience by making the product visually appealing, easy to use, and efficient in achieving its purpose. UI design encompasses various elements that users interact with on the screen, including buttons, icons, images, text, forms, and other interactive components.
 The tools of the trade for UI design are mainly [Sketch](https://www.sketchapp.com/), [Adobe XD](http://www.adobe.com/de/products/experience-design.html), [Adobe Photoshop](http://www.adobe.com/de/products/photoshop.html) and [Adobe Illustrator](http://www.adobe.com/de/products/illustrator.html). Some UI designers also code HTML and CSS at work.
 
 ![UI Designer Roadmap](http://i.imgur.com/nGgB1ZF.png)
 
-## 🔮 User Experience Researcher Roadmap
+## 🔮 User Experience Roadmap
+
 User Experience (UX) design is a multidisciplinary field that focuses on creating products, systems, or services that are user-centric and provide a positive and meaningful experience for the users. The goal of UX design is to enhance user satisfaction and usability by improving the overall interaction between the user and the product. Here's a general roadmap for UX design:
 
 ![UX Researcher Roadmap](http://i.imgur.com/duKBzNL.png)
