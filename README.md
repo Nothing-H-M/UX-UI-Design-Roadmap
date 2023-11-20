@@ -110,6 +110,10 @@ This is a landing page designed for a product launch. It is designed to showcase
 ![LANDING PAGE 2](https://github.com/MichelleGoba/UX-UI-Design-Roadmap/assets/127187021/adfaa1d9-a635-49c9-bd80-849165429fc8)
 
 
+## Design 4: Chat App 
+## Details
+
+
 
 
 
