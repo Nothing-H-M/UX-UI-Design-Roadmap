@@ -112,6 +112,9 @@ This is a landing page designed for a product launch. It is designed to showcase
 
 ## Design 4: Chat App 
 ## Details
+This is a Chat App design that is catered for a desktop. The app is designed aiming to facilitate user registration and login, individual and group chatting, as well as making voice and video calls.
+* Figma Prototype: https://www.figma.com/proto/FEwD3mvd7FM3p373NBDUw6/Chat-App-design?type=design&node-id=87-547&t=xq12veZiPjVM9kT1-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=87%3A547
+![ChatApp](https://github.com/MichelleGoba/UX-UI-Design-Roadmap/assets/127187021/2fce51fb-02ca-4aa3-b4ad-eb7e617112f3)
 
 
 
