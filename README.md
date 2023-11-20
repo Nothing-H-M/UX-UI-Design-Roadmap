@@ -25,7 +25,6 @@ User Experience (UX) design is a multidisciplinary field that focuses on creatin
 ## Milestones
 
 Milestone 1: RESEARCH
-Duration: 1 - 7 days
 
 1.1 Read UX/Ui articles
 
@@ -57,7 +56,7 @@ This step is crucial for developing my understanding of typography, color, and v
 Milestone 3: LEARN UI DESIGN
 
 Expected outcome
-1. design user interface for any app or website
+Design user interface for any app or website
    
 * 3.1 Enroll on UI design courses
 * 3.1 Start daily UI Challenges
