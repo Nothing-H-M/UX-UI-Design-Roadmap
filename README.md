@@ -1,6 +1,5 @@
 # UX-UI-Design-Roadmap
 > Roadmap to becoming a UI/UX Designer
-> 
 ## 📖 Table Of Contents
 
  * [Distinguishing Between UI and UX](#distinguishing-between-ui-and-ux)
