@@ -95,6 +95,9 @@ Figma Prototype link: https://www.figma.com/proto/Y7NrPPZc99hNhFvvsIHDri/Log-in-
 
 ![Social media log in](https://github.com/MichelleGoba/UX-UI-Design-Roadmap/assets/127187021/62c2b567-5c7a-4c35-be04-0d5ae391c005)
 
+## Design 2:Landing page
+## Details
+
 
 
 
