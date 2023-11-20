@@ -53,6 +53,28 @@ Expected outcome
 2.1 Start daily UI Challenges
 - Subscribe to the Daily UI Design Challenge website to get an email every day with a new UI design challenge.
 
+> Milestone 3: LEARN AND PRACTISE
+
+Expected outcomes:
+
+- Use Figma proficiently as my UI design tool
+- Identify good and bad design patterns
+- Ask for design feedback on the public platforms
+   
+3.1 Learn Figma designs from YouTube tutorials
+Start with Figma's fundamental tools and prototyping, then go on to Components, Variants, and Auto Layout. Make use of Figma's plugins as well.
+
+3.2 Copy good UI designs
+Replicate some well-designed app and web screens with Figma. Try to understand the design patterns and their impact on users.
+This step is crucial for developing my understanding of typography, color, and visual compositions.
+* Screens of different websites (Landing page, Signup flow, Dashboard, Analytics, Blog, Ecom, Purchase flow etc)
+* Screens of different mobile apps (Signup, Ecom, Music, Dashboard, etc).
+  
+3.3 Join design communities
+
+
+# COURSES
+
 # Fist course: UI / UX for Beginners
 
 ## Skills covered
@@ -72,24 +94,7 @@ Figma is a web-based graphics editing and user interface design app that works o
 ![Getting started with Figma](https://github.com/MichelleGoba/UX-UI-Design-Roadmap/assets/127187021/a99a4af1-92af-4af0-96ff-88e11274ae16)
 
 
-> Milestone 3: LEARN AND PRACTISE
 
-Expected outcomes:
-
-- Use Figma proficiently as my UI design tool
-- Identify good and bad design patterns
-- Ask for design feedback on the public platforms
-   
-3.1 Learn Figma designs from YouTube tutorials
-Start with Figma's fundamental tools and prototyping, then go on to Components, Variants, and Auto Layout. Make use of Figma's plugins as well.
-
-3.2 Copy good UI designs
-Replicate some well-designed app and web screens with Figma. Try to understand the design patterns and their impact on users.
-This step is crucial for developing my understanding of typography, color, and visual compositions.
-* Screens of different websites (Landing page, Signup flow, Dashboard, Analytics, Blog, Ecom, Purchase flow etc)
-* Screens of different mobile apps (Signup, Ecom, Music, Dashboard, etc).
-  
-3.3 Join design communities
 
 # DESIGNS
 
