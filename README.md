@@ -86,8 +86,8 @@ Start with Figma's fundamental tools and prototyping, then go on to Components, 
 2.2 Copy good UI designs
 Replicate some well-designed app and web screens with Figma. Try to understand the design patterns and their impact on users.
 This step is crucial for developing my understanding of typography, color, and visual compositions.
-* Screens of 5 different websites (Landing page, Signup flow, Dashboard, Analytics, Blog, Ecom, Purchase flow etc)
-* Screens of 5 different mobile apps (Signup, Ecom, Music, Dashboard, etc).
+* Screens of different websites (Landing page, Signup flow, Dashboard, Analytics, Blog, Ecom, Purchase flow etc)
+* Screens of different mobile apps (Signup, Ecom, Music, Dashboard, etc).
   
 2.3 Join design communities
 
