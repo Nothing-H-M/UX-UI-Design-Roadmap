@@ -62,3 +62,13 @@ Design user interface for any app or website
 * 3.1 Enroll on UI design courses
 * 3.1 Start daily UI Challenges
 Subscribe to the Daily UI Design Challenge website to get an email every day with a new UI design challenge.
+
+## Fist course: Get Started with Figma
+## Course details
+Figma is a web-based graphics editing and user interface design app that works on your browser.  What does that really mean?  You can access your projects from multiple devices without installing software.  You and others can work on the same file in real-time taking the project from brainstorming to prototypes.  You can use Figma to design briefs, create storyboards, reduce complexity on web sites and even design your CV or resume all while collaborating with others in real time! By the end of this project, you will go through the steps to learn about the application to develop a web page or homepage for your own app.
+## Skills covered
+* Create a Figma account and learn about some of the main features of Figma.
+* Develop a plan for how to collaborate with your team, share the design and learn about the levels of access to grant in Figma.
+* Add pages to the frame in Figma.
+https://www.coursera.org/account/accomplishments/verify/2RUG3YHKGRLH
+
