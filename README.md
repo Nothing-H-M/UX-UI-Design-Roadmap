@@ -91,7 +91,13 @@ Figma is a web-based graphics editing and user interface design app that works o
 * Add pages to the frame in Figma.
 ![Getting started with Figma](https://github.com/MichelleGoba/UX-UI-Design-Roadmap/assets/127187021/a99a4af1-92af-4af0-96ff-88e11274ae16)
 
+# Second course: User experience research
+## Course details
+UX research helps a business through saving development or process costs, increasing customer happiness and loyalty, and uncovering opportunities to earn more. In this course, Amanda Stockwell shows you practical techniques to improve your UX research to better inform fast-moving projects. Get an overview of different types of research methodologies, usability tests, and conducting interviews. Review card sorts, eye tracking, multivariate testing, and desirability testing. Go over the best uses of expert reviews, surveys, diary studies, participatory design workshops, and personas. Learn how to choose the right research method for your goals, then dive into environmental considerations, such as in-house vs. external, agile vs. waterfall, and more. Find out how to plan and execute effective research, and then explore the best ways to analyze and present your findings.
 
+## Skills covered
+* User Experience
+* User Research
 
 
 # DESIGNS
