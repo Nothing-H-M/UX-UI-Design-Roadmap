@@ -36,15 +36,15 @@ User Experience (UX) design is a multidisciplinary field that focuses on creatin
 1.1 Read UX/Ui articles
 
 1.2 Watch YouTube videos
-Watch YouTube tutorials that will help me understand the basics of UI and UX.
+* Watch YouTube tutorials that will help me understand the basics of UI and UX.
 
 1.3 Explore Dribble and Figma community
-Browse the UI design shots, and add 5-10 of the greatest UI shots to my  Dribbble favorites list every day. This will help me practise my design sense
+* Browse the UI design shots, and add 5-10 of the greatest UI shots to my  Dribbble favorites list every day. This will help me practise my design sense
 
 > Milestone 2: LEARN UI DESIGN
 
 Expected outcome
-Design user interface for any app or website
+* Design user interface for any app or website
    
 * 3.1 Enroll on UI design courses
 * 3.1 Start daily UI Challenges
