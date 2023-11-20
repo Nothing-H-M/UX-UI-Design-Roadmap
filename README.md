@@ -11,7 +11,7 @@
  * [To Do / Milestones ](#-to-do-/-milestones)
 
 # Distinguishing Between UI and UX
-Often times, people use the terms ```UI``` and ```UX``` interchangeably. Despite some shared elements, there are notable differences. Here is a simple definition:
+Simple definition:
 
 - When people say __UI__, they usually mean everything related to graphic design, colors, fonts, backgrounds, buttons, stock photos, icons etc.
 - When people say __UX__, they usually mean tasks related to psychology, human decision making, user research, personas, user stories, workflows, A/B testing, statistical evaluation and so on.
