@@ -99,6 +99,9 @@ UX research helps a business through saving development or process costs, increa
 * User Experience
 * User Research
 
+[CertificateOfCompletion_UX Foundations Research.pdf](https://github.com/MichelleGoba/UX-UI-Design-Roadmap/files/13415443/CertificateOfCompletion_UX.Foundations.Research.pdf)
+
+
 
 # DESIGNS
 
