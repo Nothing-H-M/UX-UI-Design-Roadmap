@@ -85,9 +85,10 @@ This step is crucial for developing my understanding of typography, color, and v
   
 2.3 Join design communities
 
-## Designs
+## DESIGNS
+
 ## Design 1: Social media Log-in screen
-## Details
+# Details
 
 This design represents a mobile app's social media login screen, enabling users to register or log in to their respective social media accounts.
 Figma Prototype link: https://www.figma.com/proto/Y7NrPPZc99hNhFvvsIHDri/Log-in-page?type=design&node-id=5-78&t=n7d3eI82sLykuCSL-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=5%3A78
