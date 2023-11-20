@@ -38,26 +38,7 @@ Watch YouTube tutorials that will help me understand the basics of UI and UX.
 1.3 Explore Dribble and Figma community
 Browse the UI design shots, and add 5-10 of the greatest UI shots to my  Dribbble favorites list every day. This will help me practise my design sense
 
-> Milestone 2: LEARN AND PRACTISE
-
-Expected outcomes:
-
-1. Use Figma proficiently as my UI design tool
-2. Identify good and bad design patterns
-3. Ask for design feedback on the public platforms
-   
-2.1 Learn Figma designs from YouTube tutorials
-Start with Figma's fundamental tools and prototyping, then go on to Components, Variants, and Auto Layout. Make use of Figma's plugins as well.
-
-2.2 Copy good UI designs
-Replicate some well-designed app and web screens with Figma. Try to understand the design patterns and their impact on users.
-This step is crucial for developing my understanding of typography, color, and visual compositions.
-* Screens of 5 different websites (Landing page, Signup flow, Dashboard, Analytics, Blog, Ecom, Purchase flow etc)
-* Screens of 5 different mobile apps (Signup, Ecom, Music, Dashboard, etc).
-  
-2.3 Join design communities
-
-> Milestone 3: LEARN UI DESIGN
+> Milestone 2: LEARN UI DESIGN
 
 Expected outcome
 Design user interface for any app or website
@@ -85,6 +66,26 @@ Figma is a web-based graphics editing and user interface design app that works o
 ![Getting started with Figma](https://github.com/MichelleGoba/UX-UI-Design-Roadmap/assets/127187021/a99a4af1-92af-4af0-96ff-88e11274ae16)
 
 
-https://coursera.org/share/d606ad0d1b3861d71ee49579af42640f
+> Milestone 3: LEARN AND PRACTISE
+
+Expected outcomes:
+
+1. Use Figma proficiently as my UI design tool
+2. Identify good and bad design patterns
+3. Ask for design feedback on the public platforms
+   
+2.1 Learn Figma designs from YouTube tutorials
+Start with Figma's fundamental tools and prototyping, then go on to Components, Variants, and Auto Layout. Make use of Figma's plugins as well.
+
+2.2 Copy good UI designs
+Replicate some well-designed app and web screens with Figma. Try to understand the design patterns and their impact on users.
+This step is crucial for developing my understanding of typography, color, and visual compositions.
+* Screens of 5 different websites (Landing page, Signup flow, Dashboard, Analytics, Blog, Ecom, Purchase flow etc)
+* Screens of 5 different mobile apps (Signup, Ecom, Music, Dashboard, etc).
+  
+2.3 Join design communities
+
+## Designs
+
 
 
