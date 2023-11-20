@@ -95,14 +95,14 @@ This design represents a mobile app's social media login screen, enabling users 
 
 ![Social media log in](https://github.com/MichelleGoba/UX-UI-Design-Roadmap/assets/127187021/62c2b567-5c7a-4c35-be04-0d5ae391c005)
 
-## Design 2:Landing page
+## Design 2: Landing page
 ## Details
 This is a landing page designed for a product launch. It is designed to showcase the different types of products that are manufactured by the company. 
 * Figma Prototype link: https://www.figma.com/proto/jzNC1lsvbCp04AGipVqju5/Untitled?type=design&t=n7d3eI82sLykuCSL-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=3%3A68&node-id=8-56
 
 ![LANDING PAGE 1](https://github.com/MichelleGoba/UX-UI-Design-Roadmap/assets/127187021/a209a8a7-59dd-4e5f-907a-8663f8da0542)
 
-## Design 3:Landing page
+## Design 3: Landing page
 ## Details
 This is a landing page designed for a product launch. It is designed to showcase the different types of products that are manufactured by the company. This design also shows the products with their prices.
 * Figma Prototype link: https://www.figma.com/proto/jzNC1lsvbCp04AGipVqju5/Untitled?type=design&t=n7d3eI82sLykuCSL-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=3%3A68&node-id=8-56
