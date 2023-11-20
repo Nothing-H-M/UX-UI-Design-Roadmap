@@ -73,7 +73,7 @@ Figma is a web-based graphics editing and user interface design app that works o
 * Create a Figma account and learn about some of the main features of Figma.
 * Develop a plan for how to collaborate with your team, share the design and learn about the levels of access to grant in Figma.
 * Add pages to the frame in Figma.
-[Coursera 2RUG3YHKGRLH.pdf](https://github.com/MichelleGoba/UX-UI-Design-Roadmap/files/13407974/Coursera.2RUG3YHKGRLH.pdf)
+![Getting started with Figma](https://github.com/MichelleGoba/UX-UI-Design-Roadmap/assets/127187021/a99a4af1-92af-4af0-96ff-88e11274ae16)
 
 
 https://coursera.org/share/d606ad0d1b3861d71ee49579af42640f
