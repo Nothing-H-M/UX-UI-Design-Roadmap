@@ -107,6 +107,8 @@ Whether you're designing anything from a personal blog site or portfolio to an e
 * User Experience
 * Web design
 
+[CertificateOfCompletion_User Experience for Web Design.pdf](https://github.com/MichelleGoba/UX-UI-Design-Roadmap/files/13511083/CertificateOfCompletion_User.Experience.for.Web.Design.pdf)
+
 
 # DESIGNS
 
