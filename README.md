@@ -145,6 +145,7 @@ This is a Chat App design that is catered for a desktop. The app is designed aim
 ## Details
 This furniture store App is designed to enhance a users furniture shopping experience. The App is a component-based design allows reusable UI components such as buttons. This promotes consistency across the app, and any changes to a component automatically update instances throughout the design. It also uses Auto Layout to support responsive design. 
 * Figma prototype link: https://www.figma.com/proto/bjx71aRr3IsJF6Wl2NLrSA/Furniture-App?type=design&node-id=24-101&t=6Q9O1XjlIi3wyj9s-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=24%3A101&mode=design
+![Furniture store app](https://github.com/MichelleGoba/UX-UI-Design-Roadmap/assets/127187021/850001c9-3678-405e-95ec-77f41410d20a)
 
 
 
